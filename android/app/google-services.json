@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452730641034",
+    "project_id": "testappfox",
+    "storage_bucket": "testappfox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452730641034:android:7c54f177da419ee0b7eb73",
+        "android_client_info": {
+          "package_name": "com.example.test_appfox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGUJmJtkgRpA_iWGvfwGMSzecAqcrQ8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
